@@ -19,6 +19,15 @@ This project is developed for DLR-Oldenburg, Germany. It contains the web app fo
 8. Responsive web Framework: Bootstrap 4.0 and MDBootstrap 4.0
 9. Web Browser: Google Chrome (Cache disable)
 
-## Local Web Server
+## Test the APP
 
-The application was developed with XAMPP (APACHE + PHP) and can be tested with a local server.
+The application was developed with XAMPP (APACHE + PHP) and can be tested with a local server. Install XAMPP
+
+Download XAMPP from here:
+
+https://www.apachefriends.org/es/index.html
+
+Install XAMPP and then run the apache server. Copy the files of RELIFEV1.0.rar into the htdocts folder inside of the xampp intalation folder.
+
+Acces the web page with localhost:ReliveV1/index.php from a web server
+
